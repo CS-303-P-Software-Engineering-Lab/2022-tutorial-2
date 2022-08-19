@@ -1,1 +1,3 @@
 Hello world
+git remote -v (tells the origin from where its cloned)
+git push origin test (pushing changes of your test commits to your origin(forked repo))
